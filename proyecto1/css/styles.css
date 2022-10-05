@@ -1,5 +1,20 @@
 body{
     text-align: center;
-    font-size: arial;
-    color: burlywood;
+    font-size: 46px;
+    font-family: "Arial";
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 70%;
+    text-align:left ;
+    border: 1px solid #000;
+    margin:0 auto ;
+
+}
+
+#container h1 {
+    font-size: 20px;
 }
