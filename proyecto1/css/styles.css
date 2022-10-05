@@ -7,6 +7,14 @@ body{
     padding: 0;
 }
 
+#cabecera {
+    background: #33A;
+    color: white;
+    margin: 0;
+    padding: 0,5 cm;
+    background-color: aqua;
+    }
+
 #container {
     width: 70%;
     text-align:left ;
@@ -19,10 +27,3 @@ body{
     font-size: 20px;
 }
 
-#cabecera {
-background: #33A;
-color: white;
-margin: 0;
-padding: 0,5 cm;
-background-color: aqua;
-}
